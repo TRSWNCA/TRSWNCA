@@ -4,7 +4,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-brown-seven.vercel.app/api?username=trswnca&show_icons=true&locale=en" alt="trswnca" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact" alt="trswnca" /></p>
+<p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact&langs_count=10" alt="trswnca" /></p>
 
 
 - 🌱 I’m currently working on FaaS
