@@ -7,15 +7,11 @@
 - 👯 I’m looking to studying abroad
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<div>
-<img align="left" alt="TRSWNCA's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api?username=TRSWNCA&show_icons=true&hide_border=true" />
 
 
-<img align="right" alt="TRSWNCA's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=TRSWNCA&show_icons=true&hide_border=true" />
-</div>
+[![GitHub Stats](https://github-readme-stats-brown-seven.vercel.app/api?username=TRSWNCA&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=TRSWNCA&show_icons=true&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
 
 ---
 
