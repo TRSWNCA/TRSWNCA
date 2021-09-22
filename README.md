@@ -1,7 +1,5 @@
 ### Hi there, I'm Chen Yichi - aka [@TRSWNCA][website] 👋
 
-[![Website](https://img.shields.io/website?label=trswnca.top&style=for-the-badge&url=https%3A%2F%2Fblog.trswnca.top)](https://blog.trswnca.top)
-
 
 ## I'm an undergraduate student of computer science in Tianjin University
 
