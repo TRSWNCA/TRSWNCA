@@ -6,9 +6,8 @@
 
 <p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact" alt="trswnca" /></p>
 
-## I'm an undergraduate student of computer science in Tianjin University
 
-- 🌱 I’m currently working about IaaS
+- 🌱 I’m currently working on FaaS
 - 👯 I’m looking to studying abroad
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
