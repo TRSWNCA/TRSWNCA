@@ -1,18 +1,16 @@
 ### Hi there, I'm Chen Yichi - aka [@TRSWNCA][website] 👋 
 
-<p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact" alt="trswnca" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-brown-seven.vercel.app/api?username=trswnca&show_icons=true&locale=en" alt="trswnca" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact" alt="trswnca" /></p>
 
 ## I'm an undergraduate student of computer science in Tianjin University
 
 - 🌱 I’m currently working about IaaS
 - 👯 I’m looking to studying abroad
 - 🥅 2021 Goals: Contribute more to Open Source projects
-
-
-
-<br />
 
 
 <h3 align="left">Connect with me:</h3>
