@@ -9,6 +9,11 @@
 
 <img align="left" alt="TRSWNCA's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api?username=TRSWNCA&show_icons=true&hide_border=true" />
 
+
+<img align="right" alt="TRSWNCA's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=TRSWNCA&show_icons=true&hide_border=true" />
+
+</br>
+
 ### Connect with me:
 
 [<img align="left" alt="trswnca.top" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
