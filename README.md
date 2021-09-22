@@ -1,10 +1,11 @@
 ### Hi there, I'm Chen Yichi - aka [@TRSWNCA][website] 👋 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-brown-seven.vercel.app/api?username=trswnca&show_icons=true&locale=en" alt="trswnca" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact&langs_count=10" alt="trswnca" /></p>
+<div>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TRSWNCA's Github Stats" src="https://github-readme-stats-brown-seven.vercel.app/api?username=trswnca&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TRSWNCA's Top Languages" src="https://github-readme-stats-brown-seven.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true" height="192px"/></a>
+  <br/>
+</div>
 
 
 - 🌱 I’m currently working on FaaS
