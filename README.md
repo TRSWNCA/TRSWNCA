@@ -1,25 +1,19 @@
-I’m @TRSWNCA, An 19-year-old programmer.
 
 Interested in IasS and Competitve Programming.
 
-<!---
-TRSWNCA/TRSWNCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Hi there, I'm Chen Yichi - aka [@TRSWNCA][website] 👋
+
+[![Website](https://img.shields.io/website?label=trswnca.top&style=for-the-badge&url=https%3A%2F%2Fblog.trswnca.top)](https://blog.trswnca.top)
 
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+## I'm an undergraduate student of computer science in Tianjin University
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently working about IaaS
+- 👯 I’m looking to studying abroad
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
+<img align="left" alt="TRSWNCA's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api?username=TRSWNCA&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
@@ -99,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-brown-seven.vercel.app/api?username=TRSWNCA&show_icons=true&hide_border=true" />
+  
 
 </details>
 
