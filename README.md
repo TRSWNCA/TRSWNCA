@@ -8,10 +8,9 @@
 </div>
 
 
-- 🌱 I’m currently working on FaaS
-- 👯 I’m looking to studying abroad
-- 🥅 2021 Goals: Contribute more to Open Source projects
+<br />
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,12 +29,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TRSWNCA/codeforces-tool/pull/1) in [TRSWNCA/codeforces-tool](https://github.com/TRSWNCA/codeforces-tool)
 2. 💪 Opened PR [#1](https://github.com/TRSWNCA/codeforces-tool/pull/1) in [TRSWNCA/codeforces-tool](https://github.com/TRSWNCA/codeforces-tool)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
-
-
 
 
 
