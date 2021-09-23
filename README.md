@@ -29,8 +29,8 @@ Tianjin University Computer Science and Technology undergraduate student.
 
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TRSWNCA/codeforces-tool/pull/1) in [TRSWNCA/codeforces-tool](https://github.com/TRSWNCA/codeforces-tool)
-2. 💪 Opened PR [#1](https://github.com/TRSWNCA/codeforces-tool/pull/1) in [TRSWNCA/codeforces-tool](https://github.com/TRSWNCA/codeforces-tool)
+1. 💪 Opened PR [#285](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/pull/285) in [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
+2. 🗣 Commented on [#276](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/issues/276) in [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 <!--END_SECTION:activity-->
 
 
