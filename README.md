@@ -29,8 +29,8 @@ Tianjin University Computer Science and Technology undergraduate student.
 
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/m-s-abeer/vjudge-to-oj/pull/9) in [m-s-abeer/vjudge-to-oj](https://github.com/m-s-abeer/vjudge-to-oj)
-2. ❗️ Opened issue [#8](https://github.com/m-s-abeer/vjudge-to-oj/issues/8) in [m-s-abeer/vjudge-to-oj](https://github.com/m-s-abeer/vjudge-to-oj)
+1. 🗣 Commented on [#3600](https://github.com/OI-wiki/OI-wiki/issues/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
+2. 💪 Opened PR [#3600](https://github.com/OI-wiki/OI-wiki/pull/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
 <!--END_SECTION:activity-->
 
 
