@@ -30,7 +30,7 @@ Tianjin University Computer Science and Technology undergraduate student.
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3600](https://github.com/OI-wiki/OI-wiki/issues/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
-2. 💪 Opened PR [#3600](https://github.com/OI-wiki/OI-wiki/pull/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
+2. 🗣 Commented on [#3600](https://github.com/OI-wiki/OI-wiki/issues/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
 <!--END_SECTION:activity-->
 
 
