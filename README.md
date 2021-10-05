@@ -29,8 +29,8 @@ Tianjin University Computer Science and Technology undergraduate student.
 
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/TJUCS/TJU-CIC-Wiki/pull/8) in [TJUCS/TJU-CIC-Wiki](https://github.com/TJUCS/TJU-CIC-Wiki)
-2. 💪 Opened PR [#8](https://github.com/TJUCS/TJU-CIC-Wiki/pull/8) in [TJUCS/TJU-CIC-Wiki](https://github.com/TJUCS/TJU-CIC-Wiki)
+1. 💪 Opened PR [#9](https://github.com/m-s-abeer/vjudge-to-oj/pull/9) in [m-s-abeer/vjudge-to-oj](https://github.com/m-s-abeer/vjudge-to-oj)
+2. ❗️ Opened issue [#8](https://github.com/m-s-abeer/vjudge-to-oj/issues/8) in [m-s-abeer/vjudge-to-oj](https://github.com/m-s-abeer/vjudge-to-oj)
 <!--END_SECTION:activity-->
 
 
