@@ -41,5 +41,5 @@ Tianjin University Computer Science and Technology undergraduate student.
 [bilibili]: https://space.bilibili.com/319408224
 [zhihu]: https://www.zhihu.com/people/chen-yi-chi-90
 [email]: mailto:trswnca@yeah.net
-[qq]: http://wpa.qq.com/msgrd?v=3&uin=489078545&site=qq&menu=yes
+[qq]: http://wpa.qq.com/msgrd?v=3&uin=489078545&site=qq
 
