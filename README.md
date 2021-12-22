@@ -31,8 +31,8 @@ Concentrate on Competitive programming and FasS.
 
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#663](https://github.com/Ibercivis/EU-CS_platform/issues/663) in [Ibercivis/EU-CS_platform](https://github.com/Ibercivis/EU-CS_platform)
-2. 🗣 Commented on [#3600](https://github.com/OI-wiki/OI-wiki/issues/3600) in [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
+1. 🗣 Commented on [#544](https://github.com/ODM2/ODM2DataSharingPortal/issues/544) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
+2. ❗️ Opened issue [#544](https://github.com/ODM2/ODM2DataSharingPortal/issues/544) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
 <!--END_SECTION:activity-->
 
 
