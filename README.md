@@ -31,8 +31,8 @@ Concentrate on Competitive programming and FasS.
 
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#544](https://github.com/ODM2/ODM2DataSharingPortal/issues/544) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
-2. 🗣 Commented on [#544](https://github.com/ODM2/ODM2DataSharingPortal/issues/544) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
+1. ❗️ Opened issue [#545](https://github.com/ODM2/ODM2DataSharingPortal/issues/545) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
+2. ❗️ Closed issue [#544](https://github.com/ODM2/ODM2DataSharingPortal/issues/544) in [ODM2/ODM2DataSharingPortal](https://github.com/ODM2/ODM2DataSharingPortal)
 <!--END_SECTION:activity-->
 
 
