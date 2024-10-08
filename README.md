@@ -31,8 +31,8 @@ Concentrate on Competitive programming and FasS.
 
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#667](https://github.com/Ibercivis/EU-CS_platform/pull/667) in [Ibercivis/EU-CS_platform](https://github.com/Ibercivis/EU-CS_platform)
-2. 🎉 Merged PR [#1](https://github.com/TRSWNCA/EU-CS_platform/pull/1) in [TRSWNCA/EU-CS_platform](https://github.com/TRSWNCA/EU-CS_platform)
+1. 🗣 Commented on [#884](https://github.com/faasm/faasm/issues/884#issuecomment-2395348738) in [faasm/faasm](https://github.com/faasm/faasm)
+2. 💪 Opened PR [#219](https://github.com/anti-entropy123/mslibos/pull/219) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
 <!--END_SECTION:activity-->
 
 
