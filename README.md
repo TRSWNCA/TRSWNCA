@@ -1,8 +1,8 @@
 ### Hi there, I'm Chen Yichi - aka [@TRSWNCA][website] 👋 
 
-Tianjin University Computer Science and Technology undergraduate student.
+Tianjin University Computer Science and Technology under postgraduate student.
 
-Concentrate on Competitive programming and FasS.
+Concentrate on ServerlessOS.
 
 <div>
     <br/>
@@ -39,7 +39,7 @@ Concentrate on Competitive programming and FasS.
 
 
 
-[website]: https://blog.trswnca.top
+[website]: https://trswnca.cc
 [bilibili]: https://space.bilibili.com/319408224
 [zhihu]: https://www.zhihu.com/people/chen-yi-chi-90
 [email]: mailto:trswnca@yeah.net
