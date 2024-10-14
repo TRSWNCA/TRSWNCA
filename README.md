@@ -31,8 +31,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/anti-entropy123/mslibos/pull/225) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
-2. 🎉 Merged PR [#224](https://github.com/anti-entropy123/mslibos/pull/224) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
+1. 🎉 Merged PR [#226](https://github.com/anti-entropy123/mslibos/pull/226) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
+2. 🎉 Merged PR [#225](https://github.com/anti-entropy123/mslibos/pull/225) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
 <!--END_SECTION:activity-->
 
 
