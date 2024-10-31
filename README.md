@@ -31,8 +31,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/flathub/com.tencent.WeChat/issues/24) in [flathub/com.tencent.WeChat](https://github.com/flathub/com.tencent.WeChat)
-2. 🎉 Merged PR [#226](https://github.com/anti-entropy123/mslibos/pull/226) in [anti-entropy123/mslibos](https://github.com/anti-entropy123/mslibos)
+1. 🗣 Commented on [#1868](https://github.com/binary-husky/gpt_academic/issues/1868#issuecomment-2448990109) in [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
+2. ❗ Opened issue [#24](https://github.com/flathub/com.tencent.WeChat/issues/24) in [flathub/com.tencent.WeChat](https://github.com/flathub/com.tencent.WeChat)
 <!--END_SECTION:activity-->
 
 
