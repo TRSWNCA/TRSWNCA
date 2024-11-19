@@ -31,8 +31,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1868](https://github.com/binary-husky/gpt_academic/issues/1868#issuecomment-2448990109) in [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
-2. ❗ Opened issue [#24](https://github.com/flathub/com.tencent.WeChat/issues/24) in [flathub/com.tencent.WeChat](https://github.com/flathub/com.tencent.WeChat)
+1. 🗣 Commented on [#297](https://github.com/microsoft/Megatron-DeepSpeed/issues/297#issuecomment-2485124374) in [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)
+2. 🗣 Commented on [#1868](https://github.com/binary-husky/gpt_academic/issues/1868#issuecomment-2448990109) in [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
 <!--END_SECTION:activity-->
 
 
