@@ -31,8 +31,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/microsoft/Megatron-DeepSpeed/issues/297#issuecomment-2485124374) in [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)
-2. 🗣 Commented on [#1868](https://github.com/binary-husky/gpt_academic/issues/1868#issuecomment-2448990109) in [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
+1. ❗ Opened issue [#2](https://github.com/CrackTC/rofi-ts/issues/2) in [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts)
+2. 🗣 Commented on [#297](https://github.com/microsoft/Megatron-DeepSpeed/issues/297#issuecomment-2485124374) in [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed)
 <!--END_SECTION:activity-->
 
 
