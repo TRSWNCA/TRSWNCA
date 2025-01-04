@@ -4,13 +4,6 @@ Tianjin University Computer Science and Technology under postgraduate student.
 
 Concentrate on ServerlessOS.
 
-<div>
-    <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TRSWNCA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=trswnca&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TRSWNCA's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=trswnca&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=true" height="192px"/></a>
-  <br/>
-</div>
-
 
 <br />
 
