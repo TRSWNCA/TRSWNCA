@@ -24,7 +24,7 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4755](https://github.com/kata-containers/kata-containers/issues/4755#issuecomment-2586115248) in [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
+1. ❗ Opened issue [#1](https://github.com/Vexless/Vexless/issues/1) in [Vexless/Vexless](https://github.com/Vexless/Vexless)
 2. ❗ Opened issue [#2](https://github.com/CrackTC/rofi-ts/issues/2) in [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts)
 <!--END_SECTION:activity-->
 
