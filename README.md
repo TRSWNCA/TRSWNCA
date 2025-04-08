@@ -24,7 +24,7 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Vexless/Vexless/issues/1) in [Vexless/Vexless](https://github.com/Vexless/Vexless)
+1. 💪 Opened PR [#267](https://github.com/tanksys/AlloyStack/pull/267) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
 2. ❗ Opened issue [#2](https://github.com/CrackTC/rofi-ts/issues/2) in [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts)
 <!--END_SECTION:activity-->
 
