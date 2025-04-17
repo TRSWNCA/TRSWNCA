@@ -24,8 +24,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#267](https://github.com/tanksys/AlloyStack/pull/267) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
-2. ❗ Opened issue [#2](https://github.com/CrackTC/rofi-ts/issues/2) in [CrackTC/rofi-ts](https://github.com/CrackTC/rofi-ts)
+1. 🎉 Merged PR [#267](https://github.com/tanksys/AlloyStack/pull/267) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+2. 💪 Opened PR [#267](https://github.com/tanksys/AlloyStack/pull/267) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
 <!--END_SECTION:activity-->
 
 
