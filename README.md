@@ -24,8 +24,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1181](https://github.com/simonw/llm/pull/1181) in [simonw/llm](https://github.com/simonw/llm)
-2. 💪 Opened PR [#267](https://github.com/tanksys/AlloyStack/pull/267) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+1. 🎉 Merged PR [#273](https://github.com/tanksys/AlloyStack/pull/273) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+2. 💪 Opened PR [#273](https://github.com/tanksys/AlloyStack/pull/273) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
 <!--END_SECTION:activity-->
 
 
