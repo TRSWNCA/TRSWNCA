@@ -24,8 +24,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#273](https://github.com/tanksys/AlloyStack/pull/273) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
-2. 💪 Opened PR [#273](https://github.com/tanksys/AlloyStack/pull/273) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+1. 🗣 Commented on [#272](https://github.com/tanksys/AlloyStack/issues/272#issuecomment-3047198568) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+2. 🔒 Closed issue [#272](https://github.com/tanksys/AlloyStack/issues/272) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
 <!--END_SECTION:activity-->
 
 
