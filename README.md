@@ -24,8 +24,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#277](https://github.com/tanksys/AlloyStack/pull/277) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
-2. ❌ Closed PR [#274](https://github.com/tanksys/AlloyStack/pull/274) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+1. ❗ Opened issue [#540](https://github.com/tramhao/termusic/issues/540) in [tramhao/termusic](https://github.com/tramhao/termusic)
+2. 🎉 Merged PR [#277](https://github.com/tanksys/AlloyStack/pull/277) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
 <!--END_SECTION:activity-->
 
 
