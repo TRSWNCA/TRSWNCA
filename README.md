@@ -24,8 +24,8 @@ Concentrate on ServerlessOS.
 
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#540](https://github.com/tramhao/termusic/issues/540) in [tramhao/termusic](https://github.com/tramhao/termusic)
-2. 🎉 Merged PR [#277](https://github.com/tanksys/AlloyStack/pull/277) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+1. 🗣 Commented on [#540](https://github.com/tramhao/termusic/issues/540#issuecomment-3144101814) in [tramhao/termusic](https://github.com/tramhao/termusic)
+2. 💪 Opened PR [#541](https://github.com/tramhao/termusic/pull/541) in [tramhao/termusic](https://github.com/tramhao/termusic)
 <!--END_SECTION:activity-->
 
 
