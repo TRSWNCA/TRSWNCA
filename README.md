@@ -4,6 +4,12 @@ Tianjin University Computer Science and Technology under postgraduate student.
 
 Concentrate on ServerlessOS.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TRSWNCA&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TRSWNCA&repo=convoychat" />
+</a>
 
 <br />
 
@@ -18,7 +24,7 @@ Concentrate on ServerlessOS.
 <a href="http://wpa.qq.com/msgrd?v=3&uin=489078545&site=qq&menu=yes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tencentqq.svg" alt="trswnca" height="30" width="40" /></a>
 </p>
 
-[![trswnca's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRSWNCA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
