@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/tramhao/termusic/issues/555#issuecomment-3196889936) in [tramhao/termusic](https://github.com/tramhao/termusic)
-2. ❗ Opened issue [#555](https://github.com/tramhao/termusic/issues/555) in [tramhao/termusic](https://github.com/tramhao/termusic)
+1. 🗣 Commented on [#555](https://github.com/tramhao/termusic/issues/555#issuecomment-3198924016) in [tramhao/termusic](https://github.com/tramhao/termusic)
+2. 🗣 Commented on [#555](https://github.com/tramhao/termusic/issues/555#issuecomment-3196889936) in [tramhao/termusic](https://github.com/tramhao/termusic)
 <!--END_SECTION:activity-->
