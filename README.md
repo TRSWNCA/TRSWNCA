@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/tramhao/termusic/issues/555#issuecomment-3196889936) in [tramhao/termusic](https://github.com/tramhao/termusic)
+1. 🚀 Published release [EuroSys'26 AE](https://github.com/tanksys/iRoute/releases/tag/v1.1) in [tanksys/iRoute](https://github.com/tanksys/iRoute)
 2. ❗ Opened issue [#555](https://github.com/tramhao/termusic/issues/555) in [tramhao/termusic](https://github.com/tramhao/termusic)
 <!--END_SECTION:activity-->
