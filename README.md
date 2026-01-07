@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [TRSWNCA/termusic](https://github.com/TRSWNCA/termusic)
+1. 💪 Opened PR [#12348](https://github.com/CherryHQ/cherry-studio/pull/12348) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 2. 🗣 Commented on [#3328](https://github.com/flameshot-org/flameshot/issues/3328#issuecomment-3409886428) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 <!--END_SECTION:activity-->
