@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12348](https://github.com/CherryHQ/cherry-studio/pull/12348) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 💪 Opened PR [#12348](https://github.com/CherryHQ/cherry-studio/pull/12348) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#12503](https://github.com/CherryHQ/cherry-studio/pull/12503#issuecomment-3771303347) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🎉 Merged PR [#12348](https://github.com/CherryHQ/cherry-studio/pull/12348) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
