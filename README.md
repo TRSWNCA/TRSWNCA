@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1325](https://github.com/ccfddl/ccf-deadlines/pull/1325) in [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
-2. 🗣 Commented on [#12561](https://github.com/CherryHQ/cherry-studio/pull/12561#issuecomment-3783302116) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🎉 Merged PR [#1325](https://github.com/ccfddl/ccf-deadlines/pull/1325) in [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
+2. 💪 Opened PR [#1325](https://github.com/ccfddl/ccf-deadlines/pull/1325) in [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
 <!--END_SECTION:activity-->
