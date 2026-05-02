@@ -23,6 +23,6 @@ Concentrate on ServerlessOS.
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/DrEAmSs59/CS2-insight-agent/pull/3) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
-2. ❗ Opened issue [#2](https://github.com/DrEAmSs59/CS2-insight-agent/issues/2) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
+1. 🎉 Merged PR [#3](https://github.com/DrEAmSs59/CS2-insight-agent/pull/3) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
+2. 💪 Opened PR [#3](https://github.com/DrEAmSs59/CS2-insight-agent/pull/3) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
 <!--END_SECTION:activity-->
