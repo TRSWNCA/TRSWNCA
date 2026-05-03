@@ -5,9 +5,9 @@
 
 ### Hi there, I'm Chen Yichi - aka [@TRSWNCA](https://github.com/TRSWNCA/) 👋 
 
-Tianjin University Computer Science and Technology postgraduate student.
+A Ph.D. student of Computer Science and Technology at Tianjin University
 
-Concentrate on ServerlessOS.
+Concentrate on Serverless & Agent Operating Systems.
 
 <br />
 
