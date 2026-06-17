@@ -23,6 +23,6 @@ Concentrate on Serverless & Agent Operating Systems.
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#66](https://github.com/DrEAmSs59/CS2-insight-agent/issues/66) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
-2. 🗣 Commented on [#54](https://github.com/DrEAmSs59/CS2-insight-agent/issues/54#issuecomment-4587268513) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
+1. 💪 Opened PR [#72](https://github.com/DrEAmSs59/CS2-insight-agent/pull/72) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
+2. ❗ Opened issue [#66](https://github.com/DrEAmSs59/CS2-insight-agent/issues/66) in [DrEAmSs59/CS2-insight-agent](https://github.com/DrEAmSs59/CS2-insight-agent)
 <!--END_SECTION:activity-->
