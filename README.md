@@ -23,6 +23,6 @@ Concentrate on Serverless & Agent Operating Systems.
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/TRSWNCA/linmo/pull/5) in [TRSWNCA/linmo](https://github.com/TRSWNCA/linmo)
-2. 💪 Opened PR [#5](https://github.com/TRSWNCA/linmo/pull/5) in [TRSWNCA/linmo](https://github.com/TRSWNCA/linmo)
+1. 💪 Opened PR [#281](https://github.com/tanksys/AlloyStack/pull/281) in [tanksys/AlloyStack](https://github.com/tanksys/AlloyStack)
+2. 🎉 Merged PR [#5](https://github.com/TRSWNCA/linmo/pull/5) in [TRSWNCA/linmo](https://github.com/TRSWNCA/linmo)
 <!--END_SECTION:activity-->
